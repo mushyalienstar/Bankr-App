@@ -4,4 +4,4 @@ Simple demo bank transaction app where you can view your balance, transfer money
 As this was created specifically to learn JavaScript, it is not very functional and will require the user to enter a username and password.
 The transactions and balance are also defaulted as a template.
 
-Credits to Jonas Schmedtmann for the tutorial on this app.
+Credit to Jonas Schmedtmann for the tutorial on this app.
